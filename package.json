@@ -1,6 +1,6 @@
 {
   "name": "react-solana-jazzicon",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "React component for danfinlay/jazzicon",
   "main": "lib/index.js",
   "types": "./types/index.d.ts",
