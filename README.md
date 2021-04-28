@@ -1,6 +1,8 @@
-react-jazzicon
-==============
-[![NPM version][npm-image]][npm-url] [![dependencies Status][david-dep-image]][david-dep-url] [![devDependencies Status][david-devDep-image]][david-devDep-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
+react-jazzicon package adapted to Solana addresses
+
+# react-jazzicon
+
+[![NPM version][npm-image]][npm-url] [![dependencies Status][david-dep-image]][david-dep-url] [![devDependencies Status][david-devdep-image]][david-devdep-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
 This is a react component for [Dan Finlay's](https://github.com/danfinlay)
 [jazzicon](https://github.com/danfinlay/jazzicon).
@@ -23,6 +25,7 @@ export default class App extends React.Component {
 ```
 
 for Ethereum addresses
+
 ```js
 import Jazzicon, { jsNumberForAddress } from 'react-jazzicon'
 
@@ -62,8 +65,8 @@ $ yarn start # or npm run start
 
 [david-dep-image]: https://david-dm.org/marcusmolchany/react-jazzicon/status.svg
 [david-dep-url]: https://david-dm.org/marcusmolchany/react-jazzicon
-[david-devDep-image]: https://david-dm.org/marcusmolchany/react-jazzicon/dev-status.svg
-[david-devDep-url]: https://david-dm.org/marcusmolchany/react-jazzicon?type=dev
+[david-devdep-image]: https://david-dm.org/marcusmolchany/react-jazzicon/dev-status.svg
+[david-devdep-url]: https://david-dm.org/marcusmolchany/react-jazzicon?type=dev
 [npm-image]: https://badge.fury.io/js/react-jazzicon.svg
 [npm-url]: https://npmjs.org/package/react-jazzicon
 [snyk-image]: https://snyk.io/test/github/marcusmolchany/react-jazzicon/badge.svg?targetFile=package.json
