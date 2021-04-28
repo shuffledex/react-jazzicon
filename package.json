@@ -1,6 +1,6 @@
 {
-  "name": "react-jazzicon",
-  "version": "0.1.3",
+  "name": "react-solana-jazzicon",
+  "version": "0.1.4",
   "description": "React component for danfinlay/jazzicon",
   "main": "lib/index.js",
   "types": "./types/index.d.ts",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcusmolchany/react-jazzicon.git"
+    "url": "git+https://github.com/shuffledex/react-jazzicon.git"
   },
   "bugs": {
-    "url": "https://github.com/marcusmolchany/react-jazzicon/issues"
+    "url": "https://github.com/suffledex/react-jazzicon/issues"
   },
   "keywords": [
     "jazzicon",
@@ -24,7 +24,7 @@
     "ethereum",
     "metamask"
   ],
-  "author": "marcusmolchany",
+  "author": "shuffledex",
   "license": "MIT",
   "dependencies": {
     "color": "^0.11.0",
